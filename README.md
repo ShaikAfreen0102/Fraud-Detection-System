@@ -28,12 +28,12 @@ joblib / pickle for model serialization
 
 📂 Project Structure
 Fraud-Detection-System/
-├── README.md
-├── .gitignore
-├── Fraud_Detection.py
-├── analysis_model.ipynb
-├── fraud_detection_pipeline.pkl
-└── requirements.txt
+- README.md
+- .gitignore
+- Fraud_Detection.py
+- analysis_model.ipynb
+- fraud_detection_pipeline.pkl
+- requirements.txt
 
 
 📊 Model & Dataset
@@ -48,7 +48,7 @@ Evaluating accuracy & classification metrics
 (Customize this based on your actual implementation.)
 
 📈 Results 
-Accuray - 94%
+- Accuray - 94%
 
 
 
