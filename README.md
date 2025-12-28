@@ -1,8 +1,7 @@
-🛡️ Fraud-Detection-System
-
-Machine Learning Based Fraud Detection System
+🛡️ Machine Learning Based Fraud Detection System
 
 A Python-based machine learning project that detects fraudulent transactions using a trained classification model. This system analyzes transaction patterns and predicts whether they are fraudulent or legitimate.
+
 
 🧠 About the Project
 
@@ -10,21 +9,21 @@ This repository contains a fraud detection system built using machine learning. 
 
 🚀 Features
 
-✔️ Trains a fraud detection model with machine learning
-✔️ Predicts transaction legitimacy
-✔️ Includes preprocessing and model pipeline
-✔️ Easy to use and extend for real-world applications
-✔️ Model can be exported and reused
+-  Trains a fraud detection model with machine learning
+-  Predicts transaction legitimacy
+-  ncludes preprocessing and model pipeline
+-  Easy to use and extend for real-world applications
+-  Model can be exported and reused
 
 🧰 Tech Stack
 
-Python
+- Python
 
-Jupyter Notebook / Python Scripts
+- Jupyter Notebook / Python Scripts
 
-pandas, numpy, scikit-learn
+- pandas, numpy, scikit-learn
 
-joblib / pickle for model serialization
+- joblib / pickle for model serialization
 
 📂 Project Structure
 Fraud-Detection-System/
