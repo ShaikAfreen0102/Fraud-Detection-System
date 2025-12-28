@@ -47,7 +47,7 @@ Training a classifier (e.g., Random Forest, XGBoost, etc.)
 Evaluating accuracy & classification metrics
 (Customize this based on your actual implementation.)
 
-📈 Results
+📈 Results 
 Accuray - 94%
 
 
